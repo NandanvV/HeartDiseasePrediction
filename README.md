@@ -9,7 +9,7 @@ The dataset contains medical and demographic features, and the target variable i
 
 ## FEATURES
 - **Heart Disease Prediction Dataset**: This dataset contains 1,888 records merged from five publicly available heart disease datasets:
-- [Heart Disease Dataset on Kaggle]([https://www.kaggle.com/path-to-dataset](https://www.kaggle.com/datasets/mfarhaannazirkhan/heart-dataset/data))
+- [Heart Disease Dataset on Kaggle](https://www.kaggle.com/datasets/mfarhaannazirkhan/heart-dataset/data)
   - age: Age of the patient (Numeric).
   - sex: Gender of the patient. Values: 1 = male, 0 = female.
   - cp: Chest pain type. Values: 0 = Typical angina, 1 = Atypical angina, 2 = Non-anginal pain, 3 = Asymptomatic.
