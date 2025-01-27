@@ -41,6 +41,10 @@ The dataset contains medical and demographic features, and the target variable i
 3. **Evaluation**:
    - Models were evaluated on validation and test sets, with metrics including accuracy and classification reports.
 
+- Programming Language: 3.12.5
+
+- Libraries: Pandas, Scikit learn, Matplotlib, Seaborn, Numpy, XGBoost
+
 ---
 
 ## Results
